@@ -27,6 +27,7 @@
 
         "strict": true,
         "target": "esnext",
+        "types": ["bun"],
         "verbatimModuleSyntax": true
     }
 }
