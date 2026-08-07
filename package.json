@@ -49,7 +49,6 @@
     "dist",
     "dist/index.d.ts",
     "index.ts",
-    "jsr.json",
     "src"
   ],
   "engines": {
